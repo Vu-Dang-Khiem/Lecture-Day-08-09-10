@@ -1,0 +1,50 @@
+[
+  {
+    "key": "OPS-201",
+    "summary": "Pipeline đồng bộ policy thất bại",
+    "updated": "2026-02-10",
+    "priority": "P1",
+    "status": "open",
+    "description": "Job ingest 02:00 cho refund policy thất bại, freshness vượt SLA."
+  },
+  {
+    "key": "OPS-202",
+    "summary": "Thêm cột version vào bảng kb_documents",
+    "updated": "2026-02-08",
+    "priority": "P3",
+    "status": "done",
+    "description": "Bổ sung metadata version và effective_date cho vector filter."
+  },
+  {
+    "key": "OPS-203",
+    "summary": "Rate limit khi gọi CRM API",
+    "updated": "2026-02-07",
+    "priority": "P2",
+    "status": "open",
+    "description": "Gặp 429 khi phân trang, cần backoff và checkpoint idempotent."
+  },
+  {
+    "key": "OPS-204",
+    "summary": "OCR confidence thấp cho SOP scan",
+    "updated": "2026-02-06",
+    "priority": "P3",
+    "status": "open",
+    "description": "Một số PDF scan có OCR confidence thấp, cần human review trước publish."
+  },
+  {
+    "key": "OPS-205",
+    "summary": "Thiết lập alert freshness",
+    "updated": "2026-02-05",
+    "priority": "P3",
+    "status": "done",
+    "description": "Cảnh báo khi freshness vượt 50 phần trăm và 100 phần trăm SLA."
+  },
+  {
+    "key": "OPS-206",
+    "summary": "Backfill dữ liệu ticket tháng 1",
+    "updated": "2026-02-04",
+    "priority": "P4",
+    "status": "done",
+    "description": "Chạy lại range ngày không phá alias production."
+  }
+]

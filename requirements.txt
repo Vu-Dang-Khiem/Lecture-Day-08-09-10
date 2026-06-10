@@ -1,0 +1,14 @@
+# ---------------------------------------------------------------------------
+# Pipeline chạy hoàn toàn bằng Python standard library (>= 3.9).
+# KHÔNG cần `pip install` để chấm bài: chỉ cần `python etl_pipeline.py`.
+#
+# Expectation suite ở quality/expectations.py mô phỏng API của Great Expectations
+# (expect_column_values_to_not_be_null / _to_be_unique / _to_match_regex) nhưng
+# không phụ thuộc thư viện ngoài, để chạy được trên mọi máy chấm.
+#
+# Nếu muốn nâng cấp lên bản "thật", bỏ comment các dòng dưới (đã pin version):
+# great-expectations==0.18.19
+# pandas==2.2.2
+# psycopg2-binary==2.9.9
+# requests==2.32.3
+# ---------------------------------------------------------------------------

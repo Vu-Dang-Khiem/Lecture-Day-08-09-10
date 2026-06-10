@@ -1,0 +1,12 @@
+doc_id,source_uri,title,effective_date,version,ocr_confidence,content
+12,sop/refund-v3.pdf,Refund Policy,2026-01-15,v3,0.98,"Chính sách hoàn tiền: Khách được hoàn tiền trong vòng 14 ngày kể từ ngày mua."
+12,sop/refund-v4.pdf,Refund Policy,2026-02-07,v4,0.98,"Chính sách hoàn tiền: Khách được hoàn tiền trong vòng 7 ngày kể từ ngày mua."
+12,sop/refund-v4.pdf,Refund Policy,07/02/26,v4,0.98,"   Chính sách hoàn tiền: Khách được hoàn tiền trong vòng 7 ngày kể từ ngày mua.   "
+44,sop/access-control-sop.md,Access Control SOP,2026-02-08,v2,0.95,"Quy trình cấp quyền: mọi yêu cầu truy cập phải được manager phê duyệt trước khi cấp quyền."
+58,sop/sla-p1-2026.pdf,P1 Incident SLA,2026/02/10,v1,0.96,"Sự cố P1: thời gian phản hồi theo SLA là 2 giờ, kèm leo thang lên quản lý trực."
+67,kb/account-recovery.html,Account Recovery FAQ,2026-02-11,v1,0.93,"Khôi phục tài khoản: gửi yêu cầu reset và xác minh OTP qua email công ty."
+71,kb/vpn-setup.html,VPN Setup Guide,2026-02-05,v2,0.90,"Cấu hình VPN: cài client, đăng nhập bằng SSO, chọn gateway theo khu vực."
+80,sop/password-policy.pdf,Password Policy,2026-02-03,v1,0.97,"Mật khẩu tối thiểu 12 ký tự, đổi mỗi 90 ngày và bắt buộc bật MFA."
+81,kb/empty-note.html,,2026-02-06,,0.40,"     "
+90,sop/data-retention.pdf,Data Retention,2026-01-20,v1,0.95,"Lưu log 180 ngày, dữ liệu ticket 365 ngày, sao lưu hằng tuần."
+91,sop/onboarding-checklist.md,Onboarding Checklist,,v1,0.95,"Quy trình onboarding nhân viên mới: cấp tài khoản, thiết bị và đào tạo an toàn thông tin."

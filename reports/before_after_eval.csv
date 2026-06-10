@@ -1,0 +1,4 @@
+run_id,question_id,question,before_answer,before_doc,before_correct,after_answer,after_doc,after_version,after_effective_date,after_correct
+2026-02-10T14:35,q1,Chính sách hoàn tiền (refund) cho khách trong bao nhiêu ngày?,Chính sách hoàn tiền: Khách được hoàn tiền trong vòng 14 ngày kể từ ngày mua.,12,False,Chính sách hoàn tiền: Khách được hoàn tiền trong vòng 7 ngày kể từ ngày mua.,12,v4,2026-02-07,True
+2026-02-10T14:35,q2,SLA thời gian phản hồi cho sự cố P1 là bao lâu?,"Sự cố P1: thời gian phản hồi theo SLA là 2 giờ, kèm leo thang lên quản lý trực.",58,True,"Sự cố P1: thời gian phản hồi theo SLA là 2 giờ, kèm leo thang lên quản lý trực.",58,v1,2026-02-10,True
+2026-02-10T14:35,q3,Quy trình cấp quyền truy cập cần ai phê duyệt?,Quy trình cấp quyền: mọi yêu cầu truy cập phải được manager phê duyệt trước khi cấp quyền.,44,True,Quy trình cấp quyền: mọi yêu cầu truy cập phải được manager phê duyệt trước khi cấp quyền.,44,v2,2026-02-08,True

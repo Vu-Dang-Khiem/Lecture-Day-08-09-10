@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated pipeline artifacts (re-created mỗi lần chạy)
+data/raw/
+data/cleaned/
+data/embedded/
+data/quarantine/
+monitoring/state.json
+monitoring/baseline.json
+
+# Giữ lại docs/ và reports/ làm bằng chứng nộp bài (đừng ignore)
